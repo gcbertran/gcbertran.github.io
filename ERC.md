@@ -1,6 +1,6 @@
-## This can be your internal website page / project page
+## European Rover Challenge
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For the past two years I have been regularly participating in the <a href="https://www.roverchallenge.eu">European Rover Challenge</a> (ERC) as a member of the <a href=https://www.upcprogram.space>UPC Space Program</a>. This competition allows students from all around the world to design, build and operate a robotic explorer simulating the Martian conditions expected for a space rover. The finals take place every year in Kielce, Poland. Our team, the GRASS mission inside the UPC Space Program, has participated in two consecutive editions, achieving the 10th and 9th position, respectively. In this edition, the **ERC 2023**, our team is participating with its latest rover, the **GRoverTo**. More info is available in the association website and in our social media.
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
