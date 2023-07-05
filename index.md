@@ -12,7 +12,7 @@
 <img src="images/animation 1.0006.png?raw=true" width=600/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Feasability of a manned Mars mission](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true" width=600/>
 
 ---
