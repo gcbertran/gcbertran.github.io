@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[European Rover Challenge](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[European Rover Challenge](/ERC.md)
+<img src="images/ERC2022.JPG?raw=true" width=600/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
