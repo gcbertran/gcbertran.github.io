@@ -1,35 +1,40 @@
-<p style="text-align:center;"><img src="images/GRover.JPG?raw=true" width="500"/>
-<img src="images/ERC2022.JPG?raw=true" width="500"/></p>
-
 # European Rover Challenge – GRASS Mission (UPC Space Program)
 
-For more than 3 years during my bachelor, I regularly participated in the the **European Rover Challenge (ERC)** as a member of the **GRASS Mission** in **UPC Space Program**, an student association dedicated to various aerospace projects.  
+For more than 3 years during my bachelor, I regularly participated in the the **European Rover Challenge (ERC)** as a member of the **GRASS Mission** in **UPC Space Program**, an student association dedicated to various aerospace projects. 
+
 This competition allows students from all around the world to design, build and operate a robotic explorer simulating the Martian conditions expected for a space rover. The finals take place every year in Krakow, Poland. The team of which I formed part, the GRASS Mission inside the UPC Space Program, has participated in five consecutive editions since 2021, as the first Spanish team to classify in the history of the competition. To know the latest news of the project progress, I strongly recommend checking the association website and their social media.
+
+<p style="text-align:center;"><img src="images/ERC2022.JPG?raw=true" width="500"/></p>
+
 
 ---
 
 ## ERC 2021 – GRASS v2
 
-My story inside this project started in **Summer 2021** during my first year of university, when I decided to join this student association who were planning, for the first time, to participate in the ERC, the biggest robotics competition in Europe.  
-When I became a member, the team was finishing the building and testing of the first competition rover, the **GRASS v2**, and I got a chance to learn about the basic systems and the structure of the team. Although it was not the first rover of the GRASS Mission, it was undoubtedly the most complex and capable yet, as it had to fulfill all the requirements needed for the competition. Built from carbon fiber and 3D printed parts, it was equipped with a robotic arm, a first for the team, and a significantly complex element which would prove to be a recurrent engineering nightmare through the years.  
-However, I always thought that the most important aspect of all the rovers was that they were completely designed, built, programmed and tested by ourselves, the students.
+My story inside this project started in **Summer 2021** during my first year of university, when I decided to join this student association who were planning, for the first time, to participate in the ERC, the biggest robotics competition in Europe.
 
-Unfortunately, that first year I could not attend the competition, the ERC 2021, but for the **2022 season** I started motivated to design a completely new rover.
+When I became a member, the team was finishing the building and testing of the first competition rover, the **GRASS v2**, and I got a chance to learn about the basic systems and the structure of the team. Although it was not the first rover of the GRASS Mission, it was undoubtedly the most complex and capable yet, as it had to fulfill all the requirements needed for the competition. Built from carbon fiber and 3D printed parts, it was equipped with a robotic arm, a first for the team, and a significantly complex element which would prove to be a recurrent engineering nightmare through the years.
+
+However, I always thought that the most important aspect of all the rovers was that they were completely designed, built, programmed and tested by ourselves, the students. Unfortunately, that first year I could not attend the competition, the ERC 2021, but for the **2022 season** I started motivated to design a completely new rover.
 
 ---
 
 ## ERC 2022 – GRover
 
-The GRASS v2, although had achieved an outstanding 10th position, it was far from perfect, and the team decided to scratch the design and start anew with a completely new rover. The **GRover** was an impressive step up from the previous design.  
+The GRASS v2, although had achieved an outstanding 10th position, it was far from perfect, and the team decided to scratch the design and start anew with a completely new rover. The **GRover** was an impressive step up from the previous design.
+
 The suspension was redesigned, opting for a **rocker-bogie** design inspired by Mars rovers such as *Curiosity* or *Perseverance*. All the electronics were now enclosed into an aluminum structure in a modular design, which we would further improve through the years. The fiber carbon was replaced with steel and 3D printed parts, and a completely new robotic arm, much more capable and better performing, was designed as a part of a final thesis. Moreover, the electronics and programming also received and upgrade, with major improvements in autonomy and control.  
 
 With these new modifications, we got to classify and achieve a very rewarding **9th position in ERC 2022**, which also marked my first attendance to the competition. Additionally, during the season I became the **Structure Department Coordinator**, tasked with supervising and helping in the tasks regarding this subsystem.
+
+<p style="text-align:center;"><img src="images/GRover.JPG?raw=true" width="500"/></p>
 
 ---
 
 ## ERC 2023 – GRover-To
 
-However, we didn’t slow for the design and building of the next rover, the **GRover-To** for the 2023 season. It was in this season that I became **Mission Coordinator**, although I retained a significant part of technical tasks in the Structures Department.  
+However, we didn’t slow for the design and building of the next rover, the **GRover-To** for the 2023 season. It was in this season that I became **Mission Coordinator**, although I retained a significant part of technical tasks in the Structures Department.
+
 The GRover-To maintained a similar appearance with last year rover’s, although it was a completely different machine, in every aspect. For example, new additive manufacturing techniques such as **SLS** were used for the first time, alongside and improved suspension, electronics, structure and robotic arm. And, on top of that, we added as a competition requirement, a drill module and an autonomous which could (in theory) land on the rover.  
 
 As our capabilities and designs improved, the competition was equally becoming more exigent and complex, with more competitors from all over the world. It was precisely due to that increasing competitiveness, along with some unfortunate technical difficulties, that we ended that season with a **16th position**.
@@ -46,9 +51,10 @@ However, the growing standards of the competition put us behind more prepared an
 
 ---
 
-## Conclusion
+## Conclusions
 
-Looking back, my participation in the European Rover Challenge through the GRASS Mission has been one of the most transformative experiences of my academic journey.  
+Looking back, my participation in the European Rover Challenge through the GRASS Mission has been one of the most transformative experiences of my academic journey.
+
 Beyond the technical knowledge gained in design, structures, and systems engineering, what I value the most is the teamwork, resilience, and leadership skills developed throughout the years. Each rover was not only a machine, but also a testimony of the passion and dedication of dozens of students who shared the same vision.  
 
 Although challenges and setbacks were always present, they pushed us to improve and to aim higher, both as engineers and as a team. For me, the ERC was not just a competition—it was a defining experience where I grew into the professional I aspire to become.
