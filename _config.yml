@@ -1,10 +1,10 @@
 title: Gonzalo Campos # your name (or website title) here
 description: > # your text below
+  <div style="text-align: center;">
   <img src="/images/Photo Identité.jpg?raw=true" alt="Profile Photo" style="width:150px; border-radius:10px;"/>
-  <br><br>
+  </div>
   <div style="text-align: justify;">
-    Aerospace Engineering student at ISAE-SUPAERO and UPC, driven by curiosity and motivated to contribute to innovation in the aerospace sector. I am particularly interested in research and development and propulsion technologies, and I look forward to expanding my skills and knowledge in this exciting field. 
-    <br><br>
+    Aerospace Engineering student at ISAE-SUPAERO and UPC, driven by curiosity and motivated to contribute to innovation in the aerospace sector. I am particularly interested in research and development and propulsion technologies, and I look forward to expanding my skills and knowledge in this exciting field.
     The following portfolio features projects I've worked on or currently working on in aerospace engineering, as well as other fields.
   </div>
   <br><br>
