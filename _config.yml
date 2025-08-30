@@ -1,11 +1,11 @@
 title: Gonzalo Campos # your name (or website title) here
 logo: "/images/Photo Identité.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am an aerospace engineering student at the UPC. I am eager to develop my skills as well as learn about this field, which I consider to be fascinating and thrilling. 
+  Aerospace Engineering student at ISAE-SUPAERO and UPC, driven by curiosity and motivated to contribute to innovation in the aerospace sector. I am particularly interested in research and development and propulsion techonologies, and I look forward to expanding my skills and knowledge in this exciting field. 
   <br><br>
-  My portfolio features projects I've worked on or currently working on in aerospace engineering, as well as other fields.
+  The following portfolio features projects I've worked on or currently working on in aerospace engineering, as well as other fields.
   <br><br>
-  <a href="https://www.linkedin.com/in/gonzalo-campos-bertr%C3%A1n/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/gonzalocampos/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
