@@ -1,4 +1,4 @@
-# European Rover Challenge – GRASS Mission (UPC Space Program)
+# GRASS Mission - European Rover Challenge
 
 <p style="text-align: justify;">
 For more than 3 years during my bachelor, I regularly participated in the the <a href="https://roverchallenge.eu/">European Rover Challenge (ERC)</a> as a member of the <b>GRASS Mission</b> in <a href="https://www.upcprogram.space/">UPC Space Program</a>, an student association dedicated to various aerospace projects. 
