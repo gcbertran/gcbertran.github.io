@@ -4,7 +4,7 @@
 
 ### Projects
 
-[European Rover Challenge](/ERC.md)
+[GRASS Mission](/ERC.md)
 
 <img src="images/ERC2022.JPG?raw=true" width=600/>
 
