@@ -12,3 +12,5 @@ One of the project’s distinctive features was the combination of theoretical a
 The main conclusion of the project was that, while the dream of colonizing Mars continues to inspire, it remains beyond current technological and logistical capabilities. The absence of a reliable solution for <b>producing return-trip propellants</b> and the enormous infrastructure required are still significant barriers. Nevertheless, the project highlighted that many supporting technologies—such as life-support systems, renewable energy, and in-situ resource utilization—are progressing rapidly, bringing humanity closer to its first steps on the Red Planet.
 </p>
 
+<p style="text-align:center;"><img src="images/Mar's Mission.jpg?raw=true" width="500"/></p>
+
