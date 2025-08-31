@@ -1,12 +1,14 @@
 # Feasibility of a manned Mars Mission
 
 <p style="text-align: justify;">
-For more than 3 years during my bachelor, I regularly participated in the the <a href="https://roverchallenge.eu/">European Rover Challenge (ERC)</a> as a member of the <b>GRASS Mission</b> in <a href="https://www.upcprogram.space/">UPC Space Program</a>, an student association dedicated to various aerospace projects. 
+My high-school research project, <a href="/pdf/TRDEFINITIVOv1.pdf">Colonies on Mars: Challenges and Solutions for the Conquest of the Red Planet</a>, examined whether it would be feasible, with 2019 technology, to establish a permanent human settlement on Mars. The research began with an overview of Mars’ unique environment—its gravity, atmosphere, water resources, geology, and extreme climate—and then compared these factors with the state of the art in aerospace engineering and planetary science. This approach allowed me to evaluate mission architectures, habitat design, energy systems, and life-support strategies within a realistic framework.
 </p>
 
 <p style="text-align: justify;">
-This competition allows students from all around the world to design, build and operate a robotic explorer simulating the Martian conditions expected for a space rover. The finals take place every year in Krakow, Poland. The team of which I formed part, the GRASS Mission inside the UPC Space Program, has participated in five consecutive editions since 2021, as the first Spanish team to classify in the history of the competition. To know the latest news of the project progress, I strongly recommend checking the association <a href="www.upcprogram.space/grass">website</a> and their <a href="https://www.instagram.com/upcspaceprogram?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">social media</a>
+One of the project’s distinctive features was the combination of theoretical analysis and a hands-on component. Alongside the written research, I designed and built a detailed 1:100 scale model of a proposed colony located in Jezero Crater, a site chosen for its scientific value and relative accessibility. The model incorporated a central habitat dome, supporting modules, transportation links, and energy infrastructure, reflecting the challenges of construction and resource management in a hostile environment.
 </p>
 
-<p style="text-align:center;"><img src="images/ERC2022.JPG?raw=true" width="500"/></p>
+<p style="text-align: justify;">
+The main conclusion of the project was that, while the dream of colonizing Mars continues to inspire, it remains beyond current technological and logistical capabilities. The absence of a reliable solution for <b>producing return-trip propellants</b> and the enormous infrastructure required are still significant barriers. Nevertheless, the project highlighted that many supporting technologies—such as life-support systems, renewable energy, and in-situ resource utilization—are progressing rapidly, bringing humanity closer to its first steps on the Red Planet.
+</p>
 
