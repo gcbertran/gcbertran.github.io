@@ -1,8 +1,8 @@
 # European Rover Challenge – GRASS Mission (UPC Space Program)
 
-For more than 3 years during my bachelor, I regularly participated in the the **European Rover Challenge (ERC)** as a member of the **GRASS Mission** in **UPC Space Program**, an student association dedicated to various aerospace projects. 
+For more than 3 years during my bachelor, I regularly participated in the the [**European Rover Challenge (ERC)**](https://roverchallenge.eu/) as a member of the **GRASS Mission** in [**UPC Space Program**](https://www.upcprogram.space/), an student association dedicated to various aerospace projects. 
 
-This competition allows students from all around the world to design, build and operate a robotic explorer simulating the Martian conditions expected for a space rover. The finals take place every year in Krakow, Poland. The team of which I formed part, the GRASS Mission inside the UPC Space Program, has participated in five consecutive editions since 2021, as the first Spanish team to classify in the history of the competition. To know the latest news of the project progress, I strongly recommend checking the association website and their social media.
+This competition allows students from all around the world to design, build and operate a robotic explorer simulating the Martian conditions expected for a space rover. The finals take place every year in Krakow, Poland. The team of which I formed part, the GRASS Mission inside the UPC Space Program, has participated in five consecutive editions since 2021, as the first Spanish team to classify in the history of the competition. To know the latest news of the project progress, I strongly recommend checking the association [website](https://www.upcprogram.space/grass) and their [social media](https://www.instagram.com/upcspaceprogram?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).
 
 <p style="text-align:center;"><img src="images/ERC2022.JPG?raw=true" width="500"/></p>
 
@@ -63,4 +63,4 @@ Looking back, my participation in the European Rover Challenge through the GRASS
 
 Beyond the technical knowledge gained in design, structures, and systems engineering, what I value the most is the teamwork, resilience, and leadership skills developed throughout the years. Each rover was not only a machine, but also a testimony of the passion and dedication of dozens of students who shared the same vision.  
 
-Although challenges and setbacks were always present, they pushed us to improve and to aim higher, both as engineers and as a team. For me, the ERC was not just a competition—it was a defining experience where I grew into the professional I aspire to become.
+Although challenges and setbacks were always present, they pushed us to improve and to aim higher, both as engineers and as a team. For me, the ERC was not just a competition—it was a **defining experience** where I grew into the professional I aspire to become.
