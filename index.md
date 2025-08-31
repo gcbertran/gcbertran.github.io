@@ -1,8 +1,5 @@
-## Portfolio
+## Projects
 
----
-
-### Projects
 
 [GRASS Mission](/ERC.md)
 
