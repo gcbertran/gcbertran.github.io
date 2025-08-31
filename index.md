@@ -6,7 +6,7 @@
 <img src="images/ERC2022.JPG?raw=true" width=600/>
 
 ---
-[Study of a laminar airfoil in incompressible flow](/pdf/Campos_Bertrán_Gonzalo_FluidsCFD.pdf)
+[Study of a laminar airfoil in incompressible flow](/Laminar_airfoil.md)
 
 <img src="images/animation 1.0006.png?raw=true" width=600/>
 
