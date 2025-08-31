@@ -17,6 +17,8 @@ When I became a member, the team was finishing the building and testing of the f
 
 However, I always thought that the most important aspect of all the rovers was that they were completely designed, built, programmed and tested by ourselves, the students. Unfortunately, that first year I could not attend the competition, the ERC 2021, but for the **2022 season** I started motivated to design a completely new rover.
 
+<p style="text-align:center;"><img src="images/ERC2021.JPG?raw=true" width="500"/></p>
+
 ---
 
 ## ERC 2022 – GRover
@@ -39,6 +41,8 @@ The GRover-To maintained a similar appearance with last year rover’s, although
 
 As our capabilities and designs improved, the competition was equally becoming more exigent and complex, with more competitors from all over the world. It was precisely due to that increasing competitiveness, along with some unfortunate technical difficulties, that we ended that season with a **16th position**.
 
+<p style="text-align:center;"><img src="images/ERC2023.JPG?raw=true" width="500"/></p>
+
 ---
 
 ## ERC 2024 – GAIA
@@ -48,6 +52,8 @@ So for the next season, my fourth one as a member of the team, we designed a new
 The result was a very capable machine which was designed, for the first time, to be used during various seasons, in contrast with the previous *“new season, new rover”* philosophy. It was the better performing rover until date, which was a rewarding experience during testing, and proved the experience and *“know-how”* obtained by the team during the years.  
 
 However, the growing standards of the competition put us behind more prepared and experienced teams, which gave us a **bitter-sweet 20th place**, especially given the fact that, at this point, I knew this season was probably my last one.
+
+<p style="text-align:center;"><img src="images/ERC2024.JPG?raw=true" width="500"/></p>
 
 ---
 
